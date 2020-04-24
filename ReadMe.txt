@@ -1,0 +1,1 @@
+This is Simple App challange which is given me App Brewery Online Flutter Development Course.So I just fullfill it and store is for futere use as a boilerplate or something.
